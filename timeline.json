@@ -4,7 +4,7 @@
         "headline":"A Little Bit About Myself",
         "type":"default",
         "startDate":"1985,6,17",
-        "text":"Keywords: Front-end Engineer, Father, Disc Golf, Stargazing, Gardening, Gaming, Geek, Soccer, Scale Models, Piano, et cetera.",
+        "text":"Keywords: Front-end Engineer, Father, Disc Golfer, Stargazer, Gardener, Gamer, Geek, Soccer Player, Scale Modeller, Piano Player, Spurs Fan, Freelancer, Teacher, Writer, Designer, Developer, et cetera.",
         "asset":
         {
             "media":"http://www.flickr.com/photos/klamping/7571612638",
@@ -186,6 +186,12 @@
               }
             },
             {
+              "startDate":"2007,3,4",
+              "headline":"Elastic Images",
+              "text":"One of the biggest disadvantages of using css-based image replacement is the loss of scalability. Graphics have been notiorously known to scale poorly, resulting in jagged edges, especially noticable on words and straight edges. <a href='http://kevinlamping.com/web-tutorials/scalable-images/'>This slightly out-dated article</a> covers an alternative approach to this issue.",
+              "tag": "Writing"
+            },
+            {
               "startDate":"2007,3",
               "headline":"Trip to Germany",
               "text":"Travelled overseas to see Katie's brother (and wife and son). Sprechen Sie Deutsch? <a href='http://www.flickr.com/photos/klamping/sets/72157615491064999/with/3365235865/'>Full photo set</a>",
@@ -196,6 +202,23 @@
                 "credit":"Katie Lamping",
                 "caption":"Archway over Landstuhl"
               }
+            },
+            {
+                "startDate":"2007,5,13",
+                "headline":"Honeymoon",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/klamping/781185357/",
+                    "credit":"Camera Self-Timer",
+                    "caption":"Travelled to Half-moon Bay, Yosemite. <a href='http://www.flickr.com/photos/klamping/sets/72157600329631774/'>Full Set</a>"
+                }
+            },
+            {
+              "startDate":"2007,6,14",
+              "headline":"Beginner Web Standards FAQs",
+              "text":"Spurred on by a co-worker, I wrote up <a href='http://kevinlamping.com/web-tutorials/beginner-web-developer-faqs.html'>a short list of FAQ for standards-based web development</a> for beginners.",
+              "tag": "Writing"
             },
             {
                 "startDate":"2007,5,12",
@@ -209,15 +232,10 @@
                 }
             },
             {
-                "startDate":"2007,5,13",
-                "headline":"Honeymoon",
-                "tag": "Personal",
-                "asset":
-                {
-                    "media":"http://www.flickr.com/photos/klamping/781185357/",
-                    "credit":"Camera Self-Timer",
-                    "caption":"Travelled to Half-moon Bay, Yosemite. <a href='http://www.flickr.com/photos/klamping/sets/72157600329631774/'>Full Set</a>"
-                }
+              "startDate":"2007,9,10",
+              "headline":"Known Techniques For Constructing Effectively Optimized Cascading Style Sheets",
+              "text":"There are several advantages to sliming down your CSS. Not only does it lower bandwidth costs, it also makes editing the CSS easier because there is less code to look through. Use <a href='http://kevinlamping.com/web-tutorials/compressing-CSS-files.html'>these simple techniques</a> to speed up and slim down your cascading styles.",
+              "tag": "Writing"
             },
             {
               "startDate":"2007,10,21",
@@ -252,6 +270,12 @@
                 "media":"<blockquote>&#8220;The first question asked when I was interviewing for my teaching job was, &#8216;Why do you want to be a teacher?&#8217; It’s an extremely important question, because sooner or later, you’re going to second guess your choice.&#8221;</blockquote>",
                 "credit":"My post on <a href='http://kevinlamping.com/teaching/2008/10/why-i-want-to-teach/'>Why I Want to Teach</a>"
               }
+            },
+            {
+              "startDate":"2009,4,22",
+              "headline":"Is Click Here the Best Choice?",
+              "text":"The words 'click here' have grown to cover the web. The phrase is used to indicate links as calls to action. While some claim that visitors key in on those two words, using 'click here' and its siblings 'Read More' and 'Continue' can create accessibility and usability issues. <a href='http://kevinlamping.com/web-tutorials/is-click-here-the-best-choice.html'>Here's why 'Click Here' might not be the best choice.</a>",
+              "tag": "Writing"
             },
             {
               "startDate":"2009,7,12",
