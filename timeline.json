@@ -1,0 +1,241 @@
+{
+    "timeline":
+    {
+        "headline":"A Little Bit About Myself",
+        "type":"default",
+        "startDate":"1985,6,17",
+        "text":"Keywords: Front-end Engineer, Father, Disc Golf, Stargazing, Gardening, Gaming, Geek, Soccer, Scale Models, Piano, et cetera.",
+        "asset":
+        {
+            "media":"http://www.flickr.com/photos/klamping/7571612638",
+            "credit":"",
+            "caption":"My Son, Edan, and Me"
+        },
+        "era": [
+            {
+                "startDate":"1985,6,17",
+                "endDate":"2000,5,30",
+                "headline":"Childhood"
+            },
+            {
+                "startDate":"2000,8,17",
+                "endDate":"2003,5,28",
+                "headline":"High School",
+                "text":"Boerne High School"
+            },
+            {
+                "startDate":"2003,8,20",
+                "endDate":"2006,5,23",
+                "headline":"University of Texas at Dallas"
+            },
+            {
+                "startDate":"2006,6,3",
+                "endDate":"2007,8,10",
+                "headline":"Agency.com"
+            },
+            {
+                "startDate":"2007,8,17",
+                "endDate":"2008,9,10",
+                "headline":"nFusion"
+            },
+            {
+                "startDate":"2008,9,13",
+                "endDate":"2009,6,10",
+                "headline":"Bastrop High School"
+            },
+            {
+                "startDate":"2009,9,7",
+                "endDate":"2100",
+                "headline":"USAA"
+            }
+        ],
+        "date": [
+            {
+                "startDate":"1985,6,17",
+                "headline":"Birth",
+                "text":"My Birthday",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"Mom (and Dad)",
+                    "caption":"Me at x Months"
+                }
+            },
+            {
+              "startDate":"1988",
+              "headline":"Fell off horse &rarr; Broke collarbone",
+              "text":"When I was three, my sister, brother and myself were out for a neighborhood horseride. As we returned home, we began to head up a steep uphill path. A combination of the incline, being seated in the rear of an overcrowded saddle, and being three years old, I lost my grip and fell backwards off the horse. My shoulder caught the brunt of the fall, resulting in a clean snap of my clavicle.",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"http://www.flickr.com/photos/justin/6847654735/",
+                "credit":"<a href='http://www.flickr.com/photos/justin/6847654735/in/photostream/'>Justin Hall</a>",
+                "caption":""
+              }
+            },
+            {
+              "startDate":"1990",
+              "headline":"Stepped on by horse &rarr; ER visit",
+              "text":"When I was five, my sister and I were at a local rodeo. We just finished a short ride on her horse to get to her friends. As I was getting off from the horse, I slipped and fell to the ground. The sound spooked the horse, who, in an attempt to step away from me, stepped on me in two spots. This was my first and only ambulance ride.",
+              "tag": "Personal"
+            },
+            {
+              "startDate":"1995",
+              "headline":"Disneyworld (but not really)",
+              "text":"Took my first airplane trip by myself to go visit my childhood friend who had moved to Florida earlier that year. I got sick the night I arrived and we were rained out of our trip to Blizzard Beach. We never made it to DisneyWorld (although I did have an amazingly fun time).",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"http://www.flickr.com/photos/jtkays/8195698920/",
+                "credit":"<a href='http://www.flickr.com/photos/jtkays/8195698920/'>Jeff Kays</a>",
+                "caption":"Even at a subsidiary park, the lines were still too long."
+              }
+            },
+            {
+              "startDate":"1998",
+              "headline":"&lt;html&gt;",
+              "text":"I typed my first html tag (&lt;font&gt;) in an attempt to spice up my email signature for my WebTV email address.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/webtv1996.jpg",
+                "credit":"<a href='http://is.gd/LzRMmw'>Random Forum</a>",
+                "caption":"Anyone else remember this screen?"
+              }
+            },
+            {
+              "startDate":"1999",
+              "headline":"Created first website",
+              "text":"I published my first personal website on my brother's server space from his University. Contents included: Frames, Best of Boerne Police Blotter, links to various resources on the web, and a page with a flying animated gif of Ralph Wiggum eating paste",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/ralph.gif",
+                "caption":"Now just imagine it floating around the screen"
+              }
+            },
+            {
+              "startDate":"2001,1",
+              "headline":"Broke Collarbone (again)",
+              "text":"I broke my other clavicle while sprinting down the side of the soccer field when an opposing player tripped me up, sending me shoulder first into the hard ground.",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"http://www.flickr.com/photos/justin/6847656111/in/photostream/",
+                "credit":"<a href='http://www.flickr.com/photos/justin/6847656111/in/photostream/'>Justin Hall</a>",
+                "caption":""
+              }
+            },
+            {
+              "startDate":"2004",
+              "headline":"A Gift and A Card",
+              "text":"A friend of a friend wanted a website for their homemade greeting card business. Wanting a challenge, I spent the next year and a half learning PHP, MySQL and general application development. In hindsight, an out-of-the-box solution would have been much better, but the things I learned from that project propelled me to where I am today.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/agaac.png",
+                "credit":"",
+                "caption":"Not the greatest of designs, but I was certainly proud of it at the time."
+              }
+            },
+            {
+              "startDate":"2006,3,5",
+              "headline":"Proposed to Katie Lewis (Then climbed Guadalupe Peak)",
+              "text":"In the early Spring of 2006, I proposed to Katie Lewis. We then took a trip west to Carlsbad Caverns and Guadalupe Mountains National Park. At GMNP, Katie and I took an 8-hour round-trip hike up to the peak of Texas. I'm still not sure which was harder, climbing the mountain or proposing to a girl.",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"/images/gp.jpg",
+                "credit":"",
+                "caption":"Hey Katie, remember the mini-static lightining?"
+              }
+            },
+            {
+              "startDate":"2006,5,28",
+              "headline":"Graduated College",
+              "text":"Bachelor's of Arts in Arts and Technology",
+              "tag": "Personal"
+            },
+            {
+              "startDate":"2007,2,13",
+              "headline":"Texas Green Campaign",
+              "text":"Committed to improving Texas air quality, Texas Green Campaign hoped to create a web presence in a hurry. In less than a week, I was able to implement the design along with programming a \"Tell a Friend\" e-mail page to help spread the word about improving Texas air quality.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/texas-green-campaign.jpg",
+                "caption":"This tiny screenshot is all that's left of the website"
+              }
+            },
+            {
+              "startDate":"2007,5,2",
+              "headline":"Next Frame Photography",
+              "text":"As an ultimate compliment to my work, the owners of KB Media Productions returned for another website. This time, they wanted a photo gallery with a smoother feel. Through a custom Javascript/PHP application, I was able to deliver a great website for the second time in a row.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/next-frame.jpg",
+                "caption":"Unfortunately it's another tiny screenshot."
+              }
+            },
+            {
+              "startDate":"2007,3",
+              "headline":"Trip to Germany",
+              "text":"Travelled overseas to see Katie's brother (and wife and son). Sprechen Sie Deutsch? <a href='http://www.flickr.com/photos/klamping/sets/72157615491064999/with/3365235865/'>Full photo set</a>",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"http://www.flickr.com/photos/klamping/3366052436/in/set-72157615491064999",
+                "credit":"Katie Lamping",
+                "caption":"Archway over Landstuhl"
+              }
+            },
+            {
+                "startDate":"2007,5,12",
+                "headline":"Marriage to Katie Lewis",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"/images/Married.JPG",
+                    "credit":"Patty Mohlke",
+                    "caption":"In May of 2007, I married Katie Lewis at St. Peter the Apostle Catholic Church."
+                }
+            },
+            {
+                "startDate":"2007,5,13",
+                "headline":"Honeymoon",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/klamping/781185357/",
+                    "credit":"Camera Self-Timer",
+                    "caption":"Travelled to Half-moon Bay, Yosemite. <a href='http://www.flickr.com/photos/klamping/sets/72157600329631774/'>Full Set</a>"
+                }
+            },
+            {
+                "startDate":"2010,3,17",
+                "headline":"Edan Patrick Lamping Born",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/klamping/4459925435/in/photostream",
+                    "credit":"Katie Lamping",
+                    "caption":"My Son: 7lbs 14oz, 20in"
+                }
+            },
+            {
+                "startDate":"2012,11,15",
+                "headline":"YuiConf 2012 Presentation",
+                "tag": "Professional",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/yRvJylbSg7o",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
