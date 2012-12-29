@@ -129,7 +129,7 @@
             },
             {
               "startDate":"2004",
-              "headline":"A Gift and A Card",
+              "headline":"Site: A Gift and A Card",
               "text":"A friend of a friend wanted a website for their homemade greeting card business. Wanting a challenge, I spent the next year and a half learning PHP, MySQL and general application development. In hindsight, an out-of-the-box solution would have been much better, but the things I learned from that project propelled me to where I am today.",
               "tag": "Professional",
               "asset":
@@ -154,12 +154,18 @@
             {
               "startDate":"2006,5,28",
               "headline":"Graduated College",
-              "text":"Bachelor's of Arts in Arts and Technology",
-              "tag": "Personal"
+              "text":"After three years of coursework, I earned my Bachelor of Arts in Arts and Technology. Some topics I studied while there: Web Development, 3D Modeling, Java, Film, Piano, Writing, Entrepreneurship, Game Design, Photography, Sketching, Sculpture",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"/images/UT_Dallas_tex_flame.png",
+                "caption":""
+              }
+
             },
             {
               "startDate":"2007,2,13",
-              "headline":"Texas Green Campaign",
+              "headline":"Site: Texas Green Campaign",
               "text":"Committed to improving Texas air quality, Texas Green Campaign hoped to create a web presence in a hurry. In less than a week, I was able to implement the design along with programming a \"Tell a Friend\" e-mail page to help spread the word about improving Texas air quality.",
               "tag": "Professional",
               "asset":
@@ -170,7 +176,7 @@
             },
             {
               "startDate":"2007,5,2",
-              "headline":"Next Frame Photography",
+              "headline":"Site: Next Frame Photography",
               "text":"As an ultimate compliment to my work, the owners of KB Media Productions returned for another website. This time, they wanted a photo gallery with a smoother feel. Through a custom Javascript/PHP application, I was able to deliver a great website for the second time in a row.",
               "tag": "Professional",
               "asset":
@@ -214,19 +220,161 @@
                 }
             },
             {
+              "startDate":"2007,10,21",
+              "headline":"Site: Patty Mohlke Photography",
+              "text":"Patty Mohlke, 1951-2009, was a freelance photographer who wanted to share the beauty she saw in the world with others. To help her vision, I created a PHP/MySQL photography website where she could upload and sell her photographs.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/Cascadilla-With-Train.jpg",
+                "credit":"Patty Mohlke",
+                "caption":"Just one of Patty's many wonderful photographs."
+              }
+            },
+            {
+              "startDate":"2008,9,9",
+              "headline":"Site: Bay Area Business Park",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"/images/babp.png",
+                "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                "caption":"Freelance development work for Reeves Design House. Built on <a href='http://wordpress.org'>Wordpress</a>. <a href='http://www.bayareabusinesspark.com/'>View Website</a>"
+              }
+            },
+            {
+              "startDate":"2008,9,12",
+              "headline":"Became a Teacher",
+              "text":"In the fall of 2008, I decided to become a High School Teacher. <a href='http://kevinlamping.com/teaching/'>I blogged about it some</a>.",
+              "tag": "Professional",
+              "asset":
+              {
+                "media":"<blockquote>&#8220;The first question asked when I was interviewing for my teaching job was, &#8216;Why do you want to be a teacher?&#8217; It’s an extremely important question, because sooner or later, you’re going to second guess your choice.&#8221;</blockquote>",
+                "credit":"My post on <a href='http://kevinlamping.com/teaching/2008/10/why-i-want-to-teach/'>Why I Want to Teach</a>"
+              }
+            },
+            {
+              "startDate":"2009,7,12",
+              "headline":"Woke up to a brand new world",
+              "text":"On the morning of July 12th, Katie Lamping woke me up excitedly with a positive pregnancy test strip. My first reaction? Laughing.",
+              "tag": "Personal",
+              "asset":
+              {
+                "media":"http://www.flickr.com/photos/klamping/4051713688/"
+              }
+            },
+            {
                 "startDate":"2010,3,17",
                 "headline":"Edan Patrick Lamping Born",
                 "tag": "Personal",
                 "asset":
                 {
-                    "media":"http://www.flickr.com/photos/klamping/4459925435/in/photostream",
+                    "media":"http://www.flickr.com/photos/klamping/4471863118/",
                     "credit":"Katie Lamping",
-                    "caption":"My Son: 7lbs 14oz, 20in"
+                    "caption":"My Son: 7lbs 14oz, 20in, Edan (meaning: perfect), Patrick (after Aunt Patty, St. Patrick's Day, and our friend Patrick)"
+                }
+            },
+            {
+                "startDate":"2010,6,17",
+                "headline":"Flew a Helicopter",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"/images/heli.jpg",
+                    "credit":"Katie Lamping",
+                    "caption":"Taking off for my discovery helicopter flight"
+                }
+            },
+            {
+                "startDate":"2011,3,31",
+                "headline":"Site: Kanter Forensics",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/kanter.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Worked up with Mark Reeves to create this Wordpress-based website. <a href='http://www.kanterforensics.com/'>View Website</a>"
+                }
+            },
+            {
+                "startDate":"2011,8,18",
+                "headline":"Site: The Charmed Event",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/charmed.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Worked up with Mark Reeves to create this Wordpress-based website. <a href='http://thecharmedevent.com/home/'>View Website</a>"
+                }
+            },
+            {
+                "startDate":"2011,6,17",
+                "headline":"Flew a Plane",
+                "tag": "Personal",
+                "asset":
+                {
+                    "media":"/images/plane.jpg",
+                    "credit":"<a href='http://www.andersonaviationtx.com/'>Anderson Aviation</a>",
+                    "caption":"Flying over Canyon lake during my discover plane flight"
+                }
+            },
+            {
+                "startDate":"2012,1,16",
+                "headline":"Site: Forney Construction",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/forney.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Developed a brand-new Wordpress-based website. <a href='http://forneycc.com'>View Website</a>"
+                }
+            },
+            {
+                "startDate":"2012,4,26",
+                "headline":"Site: Twist Fund",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/twist.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Teamed up with Mark Reeves to create this Wordpress-based website. <a href='http://twistfund.com'>View Website</a>"
+                }
+            },
+            {
+                "startDate":"2012,6,7",
+                "headline":"Site: Studio 11 Design",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/studio11.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Teamed up with Mark Reeves to create this Wordpress-based website. <a href='http://studio11design.com/home/'>View Website</a>"
+                }
+            },
+            {
+                "startDate":"2012,8,17",
+                "headline":"Screencast: YUI 3's Use and Add Methods",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=1iDt5mpaNXM",
+                    "caption":"YUI 3 introduces a new module system built upon two new methods: add() and use(). This video provides a brief introduction to those two functions."
+                }
+            },
+            {
+                "startDate":"2012,9,24",
+                "headline":"Site: Todd Events",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"/images/todd.png",
+                    "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
+                    "caption":"Teamed up with Michael Gilbert and Mark Reeves to deliver this custom-built website. <a href='http://toddevents.com'>View Website</a>"
                 }
             },
             {
                 "startDate":"2012,11,15",
-                "headline":"YuiConf 2012 Presentation",
+                "headline":"Presentation: YUIConf 2012",
                 "tag": "Professional",
                 "text":"",
                 "asset":
