@@ -12,10 +12,10 @@
                 padding: .5em 0 0;
                 margin: 0;
             }
-            #timeline-embed{
-                margin:0px !important;
-                border:0px solid #CCC !important;
-                padding:0px !important;
+            #timeline-embed {
+                margin:0 !important;
+                border:0 solid #CCC !important;
+                padding:0 !important;
                 -webkit-border-radius:0px !important;
                 -moz-border-radius:0px !important;
                 border-radius:0px !important;
@@ -23,7 +23,33 @@
                 -webkit-box-shadow:0 0px 0px rgba(0, 0, 0, 0.25) !important;
                 box-shadow:0px 0px 0px rgba(0, 0, 0, 0.25) !important;
             }
-
+            .external-media {
+                position: absolute;
+                top: 10px;
+                right: 5%;
+                z-index: 200;
+            }
+            .external-media .links {
+                margin: 0;
+                padding: 0;
+            }
+            .external-media .links .link {
+                list-style: none;
+                float: left;
+                margin: 0 5px 0 0;
+            }
+            .external-media .links .link a {
+                opacity: 0.5;
+                -webkit-transition: opacity 250ms ease-in;
+                -moz-transition: opacity 250ms ease-in;
+                -ms-transition: opacity 250ms ease-in;
+                -o-transition: opacity 250ms ease-in;
+                transition: opacity 250ms ease-in;
+            }
+            .external-media .links .link a:hover,
+            .external-media .links .link a:focus {
+                opacity: 1;
+            }
         </style>
     </head>
 
@@ -32,6 +58,17 @@
         Professional: Projects, Presentations
         Personal: Birth, Family, Marraige, Births, Graduation
         -->
+        <div class="external-media">
+            <ul class="links">
+                <li class="link"><a href="http://twitter.com/klamping" title="My Twitter Feed"><img src="/images/icons/twitter.png" alt="My Twitter Feed" /></a></li>
+                <li class="link"><a href="http://www.linkedin.com/in/klamping/" title="My LinkedIn Profile"><img src="/images/icons/linkedin.png" alt="My LinkedIn Profile" /></a></li>
+                <li class="link"><a href="http://blog.kevinlamping.com" title="My Personal Blog"><img src="/images/icons/tumblr.png" alt="My Personal Blog" /></a></li>
+                <li class="link"><a href="https://github.com/klamping" title="My Github Repositories"><img src="/images/icons/github.png" alt="My Github Repositories" /></a></li>
+                <li class="link"><a href="http://flickr.com/photos/klamping" title="My Flickr Photostream"><img src="/images/icons/flickr.png" alt="My Flickr Photostream" /></a></li>
+                <li class="link"><a href="http://steamcommunity.com/id/klamping" title="My Steam Profile"><img src="/images/icons/steam.png" alt="My Steam Profile" /></a></li>
+                <li class="link"><a href="http://www.youtube.com/user/medigerati" title="My YouTube Videos"><img src="/images/icons/youtube.png" alt="My YouTube Videos" /></a></li>
+            </ul>
+        </div>
         <div id="timeline-embed"></div>
         <script type="text/javascript">
             var timeline_config = {
