@@ -328,7 +328,7 @@
                 {
                     "media":"/images/charmed.png",
                     "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
-                    "caption":"Worked up with Mark Reeves to create this Wordpress-based website. <a href='http://thecharmedevent.com/home/'>View Website</a>"
+                    "caption":"Another Wordpress website built with Mark Reeves. <a href='http://thecharmedevent.com/home/'>View Website</a>"
                 }
             },
             {
@@ -361,7 +361,7 @@
                 {
                     "media":"/images/twist.png",
                     "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
-                    "caption":"Teamed up with Mark Reeves to create this Wordpress-based website. <a href='http://twistfund.com'>View Website</a>"
+                    "caption":"Teamed up again with Mark Reeves to create this Wordpress-based website. <a href='http://twistfund.com'>View Website</a>"
                 }
             },
             {
@@ -372,7 +372,7 @@
                 {
                     "media":"/images/studio11.png",
                     "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
-                    "caption":"Teamed up with Mark Reeves to create this Wordpress-based website. <a href='http://studio11design.com/home/'>View Website</a>"
+                    "caption":"Yet another Wordpress-based website working with Mark Reeves. <a href='http://studio11design.com/home/'>View Website</a>"
                 }
             },
             {
@@ -399,14 +399,7 @@
             {
                 "startDate":"2012,11,15",
                 "headline":"Presentation: YUIConf 2012",
-                "tag": "Professional",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://youtu.be/yRvJylbSg7o",
-                    "credit":"",
-                    "caption":""
-                }
+                "tag": "Professional"
             }
         ]
     }
