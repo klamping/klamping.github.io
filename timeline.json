@@ -4,7 +4,7 @@
         "headline":"A Little Bit About Myself",
         "type":"default",
         "startDate":"1985,6,17",
-        "text":"Keywords: Front-end Engineer, Father, Disc Golfer, Stargazer, Gardener, Gamer, Geek, Soccer Player, Scale Modeller, Piano Player, Spurs Fan, Freelancer, Teacher, Writer, Designer, Developer, et cetera.",
+        "text":"Keywords: Front-end Engineer, Father, Disc Golfer, Stargazer, Gardener, Gamer, Geek, Soccer Player, Scale Modeller, Piano Player, Spurs Fan, Freelancer, Teacher, Writer, Designer, Developer, RC Plane/Heli Pilot, et cetera.",
         "asset":
         {
             "media":"http://www.flickr.com/photos/klamping/7571612638",
@@ -53,7 +53,6 @@
             {
                 "startDate":"1985,6,17",
                 "headline":"Birth",
-                "text":"My Birthday",
                 "tag": "Personal",
                 "asset":
                 {
@@ -103,6 +102,12 @@
                 "credit":"<a href='http://is.gd/LzRMmw'>Random Forum</a>",
                 "caption":"Anyone else remember this screen?"
               }
+            },
+            {
+              "startDate":"2000,7,17",
+              "headline":"Bucked off a horse",
+              "text":"At the age of 15, I was riding at a ranch in West Texas, heading back to the house, when the horse I was on started bucking wildly. I lasted a couple of bucks but quickly decided I was safer off of the horse than on. I \"let go\" and flew wildly to the ground. I walked the remaining mile back to the house, hyperventilating most of the way there.",
+              "tag": "Personal"
             },
             {
               "startDate":"1999",
@@ -270,6 +275,12 @@
                 "media":"<blockquote>&#8220;The first question asked when I was interviewing for my teaching job was, &#8216;Why do you want to be a teacher?&#8217; It’s an extremely important question, because sooner or later, you’re going to second guess your choice.&#8221;</blockquote>",
                 "credit":"My post on <a href='http://kevinlamping.com/teaching/2008/10/why-i-want-to-teach/'>Why I Want to Teach</a>"
               }
+            },
+            {
+              "startDate":"2008,7,16",
+              "headline":"Tore my Meniscus playing soccer",
+              "text":"My first real surgery came after tearing my medial Meniscus during my first game back to soccer after taking an extende 4 year break from playing regularly. It took several months of Physical Therapy, a funky knee brace, and a positive MRI result for me to determine that I needed the surgery.",
+              "tag": "Writing"
             },
             {
               "startDate":"2009,4,22",
