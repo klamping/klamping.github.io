@@ -52,7 +52,7 @@
         "date": [
             {
                 "startDate":"1985,6,17",
-                "headline":"Birth",
+                "headline":"Saw First Light",
                 "tag": "Personal",
                 "asset":
                 {
@@ -111,7 +111,7 @@
             },
             {
               "startDate":"1999",
-              "headline":"Created first website",
+              "headline":"Created my first website",
               "text":"I published my first personal website on my brother's server space from his University. Contents included: Frames, Best of Boerne Police Blotter, links to various resources on the web, and a page with a flying animated gif of Ralph Wiggum eating paste",
               "tag": "Professional",
               "asset":
@@ -406,11 +406,6 @@
                     "credit":"Designer: <a href='http://www.reevesdesignhouse.com/'>Reeves Design House</a>",
                     "caption":"Teamed up with Michael Gilbert and Mark Reeves to deliver this custom-built website. <a href='http://toddevents.com'>View Website</a>"
                 }
-            },
-            {
-                "startDate":"2012,11,15",
-                "headline":"Presentation: YUIConf 2012",
-                "tag": "Professional"
             }
         ]
     }
