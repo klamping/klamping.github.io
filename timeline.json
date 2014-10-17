@@ -446,11 +446,12 @@
                 "asset":
                 {
                     "media":"https://speakerd.s3.amazonaws.com/presentations/2c05dc401cba01310b7f0a6342f75bad/slide_0.jpg?1382386103",
-                    "caption":"Test-Driven Development has grown in popularity among the community in the past few years, but we're still lacking the proper tools to provide automation behind our CSS. How do you know a change you made to one small section on a page doesn't break a large section on another page of your site, especially when you support hundreds of devices? <a href='https://speakerdeck.com/klamping/automated-testing-and-css'>View Slides</a>"
+                    "credit":"<a href='https://speakerdeck.com/klamping/automated-testing-and-css'>View Slides</a>",
+                    "caption":"Test-Driven Development has grown in popularity among the community in the past few years, but we're still lacking the proper tools to provide automation behind our CSS. How do you know a change you made to one small section on a page doesn't break a large section on another page of your site, especially when you support hundreds of devices?"
                 }
             },
             {
-                "startDate":"2013,4,9",
+                "startDate":"2014,4,9",
                 "headline":"Conference: InnoTech 2014",
                 "tag": "Professional",
                 "asset":
