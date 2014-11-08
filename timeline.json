@@ -45,8 +45,13 @@
             },
             {
                 "startDate":"2009,9,7",
-                "endDate":"2100",
+                "endDate":"2013,7,21",
                 "headline":"USAA"
+            },
+            {
+                "startDate":"2013,8,12",
+                "endDate":"2100",
+                "headline":"Rackspace"
             }
         ],
         "date": [
