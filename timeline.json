@@ -453,7 +453,7 @@
                 "asset":
                 {
                     "media":"https://pbs.twimg.com/media/BzCYuYKIcAIOKAV.jpg",
-                    "caption":" <a href='https://github.com/klamping/UIRegression'>View Workshop</a>"
+                    "caption":"This workshop walked through a few of the tools available to help add a regression test suite to any project. <a href='https://github.com/klamping/UIRegression'>View Workshop</a>"
                 }
             }
         ]
