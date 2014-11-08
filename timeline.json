@@ -191,12 +191,6 @@
               }
             },
             {
-              "startDate":"2007,3,4",
-              "headline":"Elastic Images",
-              "text":"One of the biggest disadvantages of using css-based image replacement is the loss of scalability. Graphics have been notiorously known to scale poorly, resulting in jagged edges, especially noticable on words and straight edges. <a href='http://kevinlamping.com/web-tutorials/scalable-images/'>This slightly out-dated article</a> covers an alternative approach to this issue.",
-              "tag": "Writing"
-            },
-            {
               "startDate":"2007,3",
               "headline":"Trip to Germany",
               "text":"Travelled overseas to see Katie's brother (and wife and son). Sprechen Sie Deutsch? <a href='http://www.flickr.com/photos/klamping/sets/72157615491064999/with/3365235865/'>Full photo set</a>",
@@ -220,12 +214,6 @@
                 }
             },
             {
-              "startDate":"2007,6,14",
-              "headline":"Beginner Web Standards FAQs",
-              "text":"Spurred on by a co-worker, I wrote up <a href='http://kevinlamping.com/web-tutorials/beginner-web-developer-faqs.html'>a short list of FAQ for standards-based web development</a> for beginners.",
-              "tag": "Writing"
-            },
-            {
                 "startDate":"2007,5,12",
                 "headline":"Marriage to Katie Lewis",
                 "tag": "Personal",
@@ -235,12 +223,6 @@
                     "credit":"Patty Mohlke",
                     "caption":"In May of 2007, I married Katie Lewis at St. Peter the Apostle Catholic Church."
                 }
-            },
-            {
-              "startDate":"2007,9,10",
-              "headline":"Known Techniques For Constructing Effectively Optimized Cascading Style Sheets",
-              "text":"There are several advantages to sliming down your CSS. Not only does it lower bandwidth costs, it also makes editing the CSS easier because there is less code to look through. Use <a href='http://kevinlamping.com/web-tutorials/compressing-CSS-files.html'>these simple techniques</a> to speed up and slim down your cascading styles.",
-              "tag": "Writing"
             },
             {
               "startDate":"2007,10,21",
@@ -268,12 +250,11 @@
             {
               "startDate":"2008,9,12",
               "headline":"Became a Teacher",
-              "text":"In the fall of 2008, I decided to become a High School Teacher. <a href='http://kevinlamping.com/teaching/'>I blogged about it some</a>.",
+              "text":"In the fall of 2008, I decided to become a High School Teacher.",
               "tag": "Professional",
               "asset":
               {
-                "media":"<blockquote>&#8220;The first question asked when I was interviewing for my teaching job was, &#8216;Why do you want to be a teacher?&#8217; It’s an extremely important question, because sooner or later, you’re going to second guess your choice.&#8221;</blockquote>",
-                "credit":"My post on <a href='http://kevinlamping.com/teaching/2008/10/why-i-want-to-teach/'>Why I Want to Teach</a>"
+                "media":"<blockquote>&#8220;The first question asked when I was interviewing for my teaching job was, &#8216;Why do you want to be a teacher?&#8217; It’s an extremely important question, because sooner or later, you’re going to second guess your choice.&#8221;</blockquote>"
               }
             },
             {
@@ -281,12 +262,6 @@
               "headline":"Tore my Meniscus playing soccer",
               "text":"My first real surgery came after tearing my medial Meniscus during my first game back to soccer after taking an extended four year break from playing regularly. It took several months of Physical Therapy, a funky knee brace, and a positive MRI result for me to determine that I needed the surgery.",
               "tag": "Personal"
-            },
-            {
-              "startDate":"2009,4,22",
-              "headline":"Is Click Here the Best Choice?",
-              "text":"The words 'click here' have grown to cover the web. The phrase is used to indicate links as calls to action. While some claim that visitors key in on those two words, using 'click here' and its siblings 'Read More' and 'Continue' can create accessibility and usability issues. <a href='http://kevinlamping.com/web-tutorials/is-click-here-the-best-choice.html'>Here's why 'Click Here' might not be the best choice.</a>",
-              "tag": "Writing"
             },
             {
               "startDate":"2009,7,12",
@@ -469,6 +444,16 @@
                     "media":"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10322435_10100259055248445_4536519635303758646_n.jpg?oh=586619a58975423bb75abce373ee2f03&oe=54D0F263&__gda__=1422965766_8154847cbc36f35864e0152f75e1ef96",
                     "credit":"Credit: Katie Lamping",
                     "caption":"My Son: 7lbs 3.5oz, 20in, Micah Rex (incorporates Edan's name suggestion of 'T-rex Snowman')"
+                }
+            },
+            {
+                "startDate":"2014,10,4",
+                "headline":"Conference: SassConf 2014",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BzCYuYKIcAIOKAV.jpg",
+                    "caption":" <a href='https://github.com/klamping/UIRegression'>View Workshop</a>"
                 }
             }
         ]
