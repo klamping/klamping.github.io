@@ -420,6 +420,16 @@
                 }
             },
             {
+                "startDate":"2013,9,4",
+                "headline":"Meetup: Founded Hill Country JS",
+                "tag": "Professional",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/profile_images/478599883977269248/gchEaLxF.png",
+                    "caption":"With the help of a few co-workers, we founded a JavaScript/Front-end meetup for the San Antonio Area. <a href='http://www.meetup.com/San-Antonio-JavaScript-User-Group/'>View Meetup Group</a>"
+                }
+            },
+            {
                 "startDate":"2013,10,21",
                 "headline":"Conference: CSSDevConf 2013",
                 "tag": "Professional",
