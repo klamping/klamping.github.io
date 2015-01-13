@@ -50,8 +50,13 @@
             },
             {
                 "startDate":"2013,8,12",
-                "endDate":"2100",
+                "endDate":"2015,1,7",
                 "headline":"Rackspace"
+            },
+            {
+                "startDate":"2015,1,12",
+                "endDate":"2100",
+                "headline":"Four Kitchens"
             }
         ],
         "date": [
